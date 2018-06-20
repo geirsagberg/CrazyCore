@@ -264,3 +264,6 @@ Assets/Managed
 
 # Publish output
 Published
+
+# Rider
+.idea/
